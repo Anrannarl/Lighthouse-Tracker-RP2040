@@ -1,4 +1,0 @@
-SH1.0 3P
-LCSC part number C2998990
-LCSC part number C2998994
-Be sure to check the wire order if you order the cables from other sources

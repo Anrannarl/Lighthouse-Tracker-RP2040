@@ -1,5 +1,0 @@
-Can be ordered from JLCPCB/LCSC
-Board thickness 0.8mm
-Be sure to check the component orientation when placing the SMT order
-FB1 is a 0603 600Ω ferrite bead(LCSC part number C1002)
-The photodiode must has a top opening package
