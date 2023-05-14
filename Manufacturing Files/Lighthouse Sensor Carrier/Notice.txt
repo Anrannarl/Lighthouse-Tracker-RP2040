@@ -1,0 +1,7 @@
+Can be ordered from JLCPCB/LCSC
+Board thickness 1.6mm
+Be sure to check the component orientation when placing the SMT order
+FB1 is a 0603 600Ω ferrite bead(LCSC part number C1002)
+Some other LDO options: 
+LP5907(no bypass cap) // TLV702 / TLV703(no bypass cap) // RT9013(no bypass cap) // XC6204(no bypass cap)
+MIC5219(470p bypass cap) // AP2210(10n bypass cap)
